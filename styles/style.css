@@ -63,9 +63,9 @@ nav{
     transform: translateX(10px) rotate(5deg) translateY(5px);
 }
 .banner-image{
-    width: 1140px;
+    width: 1400px;
     height: 600px;
-    margin: 50px 185px 45px 185px;
+    margin: 50px 180px 40px 150px;
 }
 /*List Section Styles*/
 .list-section{
@@ -121,7 +121,7 @@ nav{
 }
 /* Features Section Styles*/
 .features-section{
-    margin: 0 180px 0px 180px;
+    margin: 0 300px 0px 380px;
 }
 .features-section-container{
     display: flex;
@@ -201,15 +201,14 @@ nav{
     font-size: 45px;
     font-weight: 700;
     color: #131313;
-    margin-bottom: 24px;
-    margin-left: 100px;
+    margin: 0 0 24px 240px;
 }
 .facts-section-paragraph{
     color: #727272;
-    margin-bottom: 100px;
-    margin-left: 100px;
-    width: 500px;
-    line-height: 27px;
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 25px;
+    margin: 0 0 100.08px 240px;
 }
 .icon{
     display: flex;
@@ -258,7 +257,7 @@ nav{
     margin: 0 auto;
     text-align: center;
     line-height: 25px;
-    margin: 0 0 60px 0;
+    margin-bottom: 60px;
 }
 .sponsor-images{
     display: flex;
