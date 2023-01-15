@@ -63,9 +63,9 @@ nav{
     transform: translateX(10px) rotate(5deg) translateY(5px);
 }
 .banner-image{
-    width: 1400px;
-    height: 600px;
-    margin: 50px 180px 40px 150px;
+    width: 1440px;
+    height: 700px;
+    margin: 50px 180px 40px 120px;
 }
 /*List Section Styles*/
 .list-section{
